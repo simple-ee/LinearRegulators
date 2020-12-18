@@ -1,0 +1,4 @@
+item #,Description,P_Value,Part,References,Quantity,P_Rating,P_Digikey,Website
+1,"Ceramic Capacitor, 10uF, 63V, X7R, 1210",10uF,CL32B106KMVNNWE,C101 C102,2,63V,1276-7053-1-ND,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B106KMVNNWE/7320558?s=N4IgTCBcDaIMIBkDMYBCBGADANgNIFkA1AOWIHUBREAXQF8g
+2,"Inductor, 10uH, 0.5A, 0.3DCR, 0805",10uH,MLZ2012N100LT000,L101,1,500mA,445-6762-1-ND,https://www.digikey.com/en/products/detail/tdk-corporation/MLZ2012N100LT000/2523500?s=N4IgTCBcDaILIBkBaYAMBGMA5drUIBU9UQBdAXyA
+3,"IC, LDO, 3.3V, 100mA, 55Vin(max), SOT-23A-3",3.3V,MCP1792T-3302H_CB,U101,1,100mA,MCP1792T-3302H/CBCT-ND,https://www.digikey.com/en/products/detail/microchip-technology/MCP1792T-3302H-CB/10297921
